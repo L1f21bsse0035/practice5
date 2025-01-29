@@ -1,6 +1,6 @@
 name: wf-ci-development
 on:
-   pull request:
+   pull_request:
     branhces:
     - develop
 jobs:
